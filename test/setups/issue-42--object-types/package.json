@@ -1,0 +1,11 @@
+{
+  "name": "@ts-type-checked/test--issue-42--object-types",
+  "version": "0.0.1",
+  "private": true,
+  "peerDependencies": {
+    "typescript": ">=3.9.5"
+  },
+  "dependencies": {
+    "ts-type-checked": "file:../../../dist"
+  }
+}
